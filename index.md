@@ -1,3 +1,3 @@
 ---
-# title:你好 Welcome to my blog!
+# title:你好，这是标题 Welcome to my blog!
 ---
